@@ -15,3 +15,14 @@
 
 ## 其他
 [教材](https://txyz.lanzoue.com/innkA16vkcpg)
+
+
+---
+- [工程伦理期中汇报准备](https://github.com/xftxyz2001/w202310/tree/main/工程伦理期中汇报准备)
+- [个性化算法推荐技术：伦理挑战与反思v3.1.pptx](https://github.com/xftxyz2001/w202310/tree/main/个性化算法推荐技术：伦理挑战与反思v3.1.pptx)
+
+- [工程伦理期中论文素材.md](https://github.com/xftxyz2001/w202310/tree/main/工程伦理期中论文素材.md)
+- [关于我国人工智能法律与伦理若干问题的思考_焦阳.pdf](https://github.com/xftxyz2001/w202310/tree/main/关于我国人工智能法律与伦理若干问题的思考_焦阳.pdf)
+- [2020118100-庞晓宇-工程伦理大作业.docx](https://github.com/xftxyz2001/w202310/tree/main/2020118100-庞晓宇-工程伦理大作业.docx)
+
+- [工程伦理要点.docx](https://github.com/xftxyz2001/w202310/tree/main/工程伦理要点.docx)
